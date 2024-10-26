@@ -60,10 +60,7 @@
     }
 ```
 ## OUTPUT:
-
-
 ![Screenshot 2024-09-25 153943](https://github.com/user-attachments/assets/2a5b26a0-bbbc-4758-9ce4-34afa3fa86dc)
 
 ## RESULT:
-
   Thus the data encryption standard algorithm had been implemented successfully.
